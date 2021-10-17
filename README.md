@@ -6,7 +6,6 @@ Vocab App is a mern stack web app to improve the vocabulary.
 Setup
 
 1. Clone the Repository
-git clone https://github.com/abhi3315/vocab-mern-stack
 2. Setting Up GraphQL server
 Go to server folder and download dependencies
 
